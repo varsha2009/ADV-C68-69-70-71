@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#CONTACT iframe{
+    width: 100%;
+}
+
+.travel_maindiv{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.travel_maindiv h5,.travel_maindiv p{
+  margin-left: 20px;  
+}
+.travel_maindiv h5,.travel_maindiv p{
+  margin-left: 20px;  
+}
+.movie_head i{
+    float: right;
+}
+.environment_li{
+    margin-top: 13px;
+    padding-top: 20px;
+    
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+    
+}
+
+environment_li p{
+    margin-top: 10px;
+}
+.movie_head{
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 6px 22px;
+    display: inline-block;
+}
+.modal-content{
+    margin-top: 100px;
+    
+}
+.img-modal{
+    display: inline-block;
+     
+}
+.p_modal{
+    margin-top: 10px;
+}
+modal-body{
+    text-align: center;
+}
